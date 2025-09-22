@@ -3,4 +3,5 @@ members = [
     "api",
     "store"
 ]
-resolver = "2"
+
+resolver = "3"

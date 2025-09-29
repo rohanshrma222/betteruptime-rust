@@ -1,7 +1,15 @@
 
-#[tokio::main]
+pub struct Store {
 
-async fn main() -> Result<()> {
-    print!("hello world");
-    return();
+
+}
+
+imp Store {
+    pub fn create_user(&self){
+
+    }
+
+    pub fn create_website(&self){
+        
+    }
 }
